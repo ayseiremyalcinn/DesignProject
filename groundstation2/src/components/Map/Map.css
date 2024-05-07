@@ -1,0 +1,29 @@
+.map-container{ 
+    margin-top: 20px;
+    width: 707px;
+    height: 570px;
+    background-color: #21222D;
+    border-radius: 10px;
+}
+
+/* .map-foto-container{
+
+    width: 662px;
+    height: 506px;
+    margin-top: 5px;
+    margin-left: 20px;
+    border: none;
+    border-color: white;
+    background-image: url("map.png");
+    background-size: 662px 526px;
+    background-position: center;
+    border-radius: 10px;
+} */
+
+.harita-label{
+    color: white;
+    font-size: 18px; 
+    font-family: 'Inter', 'Bold';
+    margin-top: 10px;
+    margin-left: 25px;
+}

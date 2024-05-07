@@ -1,0 +1,67 @@
+.Send_Code {
+  border: none;
+  background-color: #171821;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  height: 190px;
+  width: 300px;
+
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px; 
+  font-family: 'Inter', 'Bold';
+  
+}
+button:hover {
+  /* background-color: rgb(25, 42, 58); */
+  background-color: #F2C8ED
+}
+
+.combobox-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+select {
+  width: 45%;
+  height: 23px;
+  padding-left: 8px;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+  font-size: 14px; 
+  font-family: 'Inter', 'Bold';
+  background-color: #293037;
+  border: 1px solid #A9DFD8;
+  border-radius:8px;
+  color: white;
+}
+
+
+.message-box{
+  margin-top: 5px;
+  width: 260px;
+  max-height: 270px;
+  overflow-y: auto;
+  height: 80px;
+  padding-left: 8px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  font-size: 10px; 
+  font-family: 'Inter', sans-serif;
+  font-style: Italic;
+  background-color: #192A3A;
+  border: 1px solid #28AEF3;
+  border-radius:8px;
+  color: lightgray;
+}

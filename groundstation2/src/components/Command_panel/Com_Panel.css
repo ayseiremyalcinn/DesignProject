@@ -1,0 +1,18 @@
+.command-panel-container{ 
+    margin-top: 20px;
+    margin-left: 20px;
+    /* padding: 10px; */
+    width: 350px;
+    height: 250px;
+    background-color: #21222D;
+    border-radius: 10px;
+}
+
+.label-headerr{
+    color: white;
+    font-size: 17px; 
+    font-family: 'Inter', 'Bold';
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 5px;
+}

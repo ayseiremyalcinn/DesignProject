@@ -1,0 +1,18 @@
+.topbar-container{
+    height: 60px;
+    border-bottom: 1px solid #2C2D33;
+    background-color: rgb(23, 24, 33);
+}
+
+.topbar-logo-container{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    width: 211px;
+    height: 47px;
+    border: none;
+    border-color: white;
+    background-image: url("cervoslogo.png");
+    background-size: 211px 47px;
+    background-position: center;
+}

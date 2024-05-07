@@ -1,0 +1,27 @@
+.mini-pan{
+    display: block;
+    background-color: #312D39;
+    color: white;
+    border: 1px solid #F2C8ED;
+    border-radius: 5px;
+    padding: 10px;
+    height: 76px;
+    width: 121px;
+    margin-top:15px;
+    margin-left: 40px;
+}
+
+.head-label{
+    color: #A0AEC0;
+    font-size: 14px; 
+    font-family: 'Inter', 'Medium';
+    margin-top: 3px;
+}
+
+.value-label{
+    color: white;
+    font-size: 20px; 
+    font-family: 'Inter', 'Bold';
+    margin-top: 3px;
+}
+

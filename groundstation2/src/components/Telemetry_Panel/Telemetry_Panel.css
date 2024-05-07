@@ -1,0 +1,64 @@
+.telemetry-container{ 
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    width: 350px;
+    height: 300px;
+    background-color: #21222D;
+    border-radius: 10px;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    margin-right: 30px;
+    
+}
+
+.column{
+    display: block;
+    grid-template-columns: 1fr 1fr;
+    /* padding: 30px; */
+}
+
+
+.beacon-container {
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    background-color: #171821;
+    border-radius: 10px;
+    margin-top: 12px;
+    margin-left:15px;
+    height: 55px;
+    width: 300px;
+    padding: 12px;;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px; 
+    font-family: 'Inter', 'Bold';
+    width: 45%;
+}
+input{
+    background-color: #312D39;
+    color: white;
+    border: 1px solid #F2C8ED;
+    border-radius: 8px;
+    width: 70px;
+    height: 30px;
+    padding: 8px;
+}
+
+.label{
+    font-size: 15px; 
+    font-family: 'Inter', 'Bold';
+    margin-top: 3px;
+    margin-left: 10px;
+    color: white;
+}
